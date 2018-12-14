@@ -1,1 +1,43 @@
+#main{
+  width: 100%;
+  float: left;
+}
 
+button{
+  margin: 10px;
+}
+button:hover{
+  cursor: pointer;
+}
+
+input{
+  margin: 10px;
+  width: 400px;
+}
+
+#result{
+  width: 100%;
+  float: left;
+}
+
+.res{
+  width: 40%;
+  float: left;
+  margin: 4%;
+  text-align: center;
+}
+
+.res:hover{
+  cursor: pointer;
+}
+
+.res1{
+  width: 40%;
+  float: left;
+  margin: 3%;
+  text-align: center;
+}
+
+.res1:hover{
+  cursor: pointer;
+}
